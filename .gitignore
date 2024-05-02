@@ -231,3 +231,4 @@ pyrightconfig.json
 
 
 .vscode
+pandas/sample.csv
